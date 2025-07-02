@@ -1,0 +1,27 @@
+{
+    "andres": {
+        "nombre": "Andres",
+        "pin": "1234",
+        "saldo": 12000.0
+    },
+    "alejandro": {
+        "nombre": "alejandro",
+        "pin": "3214",
+        "saldo": 3000
+    },
+    "juana": {
+        "nombre": "juana",
+        "pin": "5678",
+        "saldo": 1000
+    },
+    "juliana": {
+        "nombre": "julian",
+        "pin": "9638",
+        "saldo": 1000.0
+    },
+    "ximena": {
+        "nombre": "ximena",
+        "pin": "5678",
+        "saldo": 3000.0
+    }
+}
