@@ -1,8 +1,8 @@
-# Cajero Automático con Tkinter 🏦
+# Cajero Automático con Tkinter 
 
 Este proyecto simula un cajero automático con interfaz gráfica usando **Tkinter** en Python.
 
-## ✅ Funcionalidades principales
+## Funcionalidades principales
 
 - Inicio de sesión con PIN
 - Consulta de saldo
@@ -11,13 +11,13 @@ Este proyecto simula un cajero automático con interfaz gráfica usando **Tkinte
 - Historial de transacciones
 - Datos guardados en archivo `usuarios.json`
 
-## 🛠️ Tecnologías usadas
+##  Tecnologías usadas
 
 - Python 3
 - Tkinter (interfaz gráfica)
 - JSON (para almacenamiento de datos)
 
-## 🚀 Cómo ejecutar
+##  Cómo ejecutar
 
 1. Clona el repositorio:
 
